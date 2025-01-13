@@ -1,7 +1,7 @@
 Problems
 
-Fabonacci
-sort a stack
+Fabonacci 
+sort a stack 
 find max element in Array
 Delete mid element in the stack
 Sort an Array
